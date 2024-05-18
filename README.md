@@ -9,12 +9,6 @@ We tried to send a issue to the original author of LaggRemover, but there's no f
 ## Is this legal?
 We tried to contact the author via GitHub to get the access, but we didn't get any feedback so we decided to migrate this plugin directly. We will always acknowledge that this plugin is owned by the original author, and we will remove this project immediately if the original author want us to do so.
 
-## [IFC-PRP Project](https://github.com/xiaoyueyoqwq/IFC-PRP)
-This is a project initiated by [xiaoyueyoqwq](https://github.com/xiaoyueyoqwq) and the INFINITYCRAFT community. 
-This project is intended to ship some commonly used plugins to Folia server and to recreate some useful but desprecated plugins. 
-We would love to have you join this project! 
-The [LaggRemover Folia Remastered Plugin](https://github.com/RIvance/LaggRemoverRemastered) is part of the [IFC-PRP Project](https://github.com/xiaoyueyoqwq/IFC-PRP) project.
-
 ## Features
 ### Ram Usage Reduction
 LaggRemover decreases the amount of ram your server uses by monitoring and controlling the amount of chunks loaded into memory. The more chunks loaded, the more lag your server will have. LaggRemover eliminates this problem by keeping the bare minimum of chunks required loaded.
